@@ -71,29 +71,28 @@ Clinical Trials</a></b></li>
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(44).pdf" style="text-decoration:none;">Attachment And Psychoanalysis: Theory, Research, And Clinical Implications</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(45).pdf" style="text-decoration:none;">Jesus the Jew: A Historian's Reading of the Gospels</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(46).pdf" style="text-decoration:none;">Jew and Philosopher</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(47).pdf" style="text-decoration:none;">Jewish Doctors Meet The Great Physician</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(45).pdf" style="text-decoration:none;">BODY IMAGE: A Handbook of Theory, Research, and Clinical Practice</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(46).pdf" style="text-decoration:none;">Brain Imaging in Substance Abuse</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(47).pdf" style="text-decoration:none;">Clinical Research Methods for Surgeons</a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(48).pdf" style="text-decoration:none;">The Jews Against Rome</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(48).pdf" style="text-decoration:none;">Clinical Research in Oral Health</a></b></li>
                           
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(49).pdf" style="text-decoration:none;">Jews And Christians In Thirteenth-century France</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(50).pdf" style="text-decoration:none;">Jews and Gentiles in the Holy Land in the Days of the Second Temple,
-the Mishnah and the Talmud</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(51).pdf" style="text-decoration:none;">Jews and Samaritans: The Origins and History of Their Early Relations</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(49).pdf" style="text-decoration:none;">DRUG DREAMS: Clinical and Research Implications of Dreams about Drugs in Drug-addicted Patients</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(50).pdf" style="text-decoration:none;">Electrodiagnosis In New Frontiers Of Clinical Research</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(51).pdf" style="text-decoration:none;">Essentials of Spinal Cord Injury: Basic Research to Clinical Practice</a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(52).pdf" style="text-decoration:none;">Jews And The Ends Of Theory</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(52).pdf" style="text-decoration:none;">From Clinic to Concentration Camp</a></b></li>
                                
                           
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(53).pdf" style="text-decoration:none;">The Jews of Byzantium</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(54).pdf" style="text-decoration:none;">Jews, Gentiles and Ethnic Reconciliation: Paul's Jewish Identity and Ephesians</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(55).pdf" style="text-decoration:none;">Jews, Germans, and Allies: Close Encounters In Occupied Germany</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(53).pdf" style="text-decoration:none;">Intracranial hypertension</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(54).pdf" style="text-decoration:none;">Key Topics In Clinical Research</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(55).rar" style="text-decoration:none;">Neurological Rehabilitation: Spasticity and Contractures in Clinical Practice and Research</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(56).pdf" style="text-decoration:none;">Jews, Judaism, And The Reformation In Sixteenth-century Germany</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(56).pdf" style="text-decoration:none;">Oxidative Stress in Applied Basic Research and Clinical Practice</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(57).pdf" style="text-decoration:none;">Jews, Slaves, and the Slave Trade</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(57).pdf" style="text-decoration:none;">Understanding Clinical Research</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(58).pdf" style="text-decoration:none;">Jews in Poland: A Documentary History</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(58).pdf" style="text-decoration:none;">Understanding Research In Clinical And Counseling Psychology</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(59).pdf" style="text-decoration:none;">Jews and Leftist Politics</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(59).pdf" style="text-decoration:none;">A comprehensive guide to music therapy : theory, clinical practice, research, and training</a></b></li>
    </ul>
