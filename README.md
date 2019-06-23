@@ -311,4 +311,42 @@ Clinical Trials</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(58).pdf" style="text-decoration:none;">Understanding Research In Clinical And Counseling Psychology</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(59).pdf" style="text-decoration:none;">A comprehensive guide to music therapy : theory, clinical practice, research, and training</a></b></li>
+   
+   
+   
+                          
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(60).pdf" style="text-decoration:none;">Clinical Anaesthesiology</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(61).pdf" style="text-decoration:none;">Clinical Data-Mining: Integrating Practice and Research</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(62).pdf" style="text-decoration:none;">Clinical Practice Guidelines We Can Trust</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(63).pdf" style="text-decoration:none;">Clinical Studies Of Certain Ayurvedic Formulations In The Management Of Paraplegia</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(64).pdf" style="text-decoration:none;">Drugs In Cardiopulmonary Resuscitation</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(65).pdf" style="text-decoration:none;">From Cancer Patient to Cancer Survivor</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(66).pdf" style="text-decoration:none;">Pre-Clinical and Clinical Methods in Brain Trauma Research</a></b></li>
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(67).pdf" style="text-decoration:none;">Quick Guide to Good Clinical Practice</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(68).pdf" style="text-decoration:none;">Smoking and Lung Inflammation: Basic, Pre-Clinical and Clinical Research Advances</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(69).pdf" style="text-decoration:none;">Therapies for Clinically Localized Prostate Cancer: Update of a 2008 Systematic Review</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(70).pdf" style="text-decoration:none;">Drug and Biological Development</a></b></li>
+         
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(71).pdf" style="text-decoration:none;">Eating Disorders, Addictions and Substance Use Disorders</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(72).rar" style="text-decoration:none;">The Top 100 Drugs: Clinical Pharmacology and Practical prescribing</a></b></li>  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
    </ul>
