@@ -204,12 +204,12 @@
 <li>Anticipated benefits should&nbsp;<strong>outweigh&nbsp;</strong>foreseeable risks.</li>
 <li>Ability of the subject to&nbsp;<strong>terminate</strong>&nbsp;participation.6</li>
 </ul>
-
-<p><strong>Best Books on Clinical Research and&nbsp;Medical Pharmacy&nbsp;</strong></p>
 <p>&nbsp;</p>
-<p><strong>__________________________________________________________________________________________________________________________</strong></p>
+<p><strong>Best Books on Clinical Research and Pharmaceutical Science</strong></p>
 
-<p>&nbsp;</p>
+<p><strong>_______________________________________________________________________________________________________________________</strong></p>
+
+
 
 
 
