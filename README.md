@@ -339,10 +339,35 @@ Clinical Trials</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(72).rar" style="text-decoration:none;">The Top 100 Drugs: Clinical Pharmacology and Practical prescribing</a></b></li>  
    
-   
-   
-   
-   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(73).pdf" style="text-decoration:none;">A Practical Guide to Quality Management in Clinical Trial Research</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(74).pdf" style="text-decoration:none;">Anxiety Disorders: Theory, Research, and Clinical Perspectives</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(75).pdf" style="text-decoration:none;">Biostatistics for Clinical and Public Health Research</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(76).pdf" style="text-decoration:none;">Clinical Image-Based Procedures: Translational Research in Medical Imaging</a></b></li>
+         
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(77).pdf" style="text-decoration:none;">Clinical Research in Complementary Therapies: Principles, Problems and Solutions</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(78).pdf" style="text-decoration:none;">Common Statistical Methods for Clinical Research with SAS Examples</a></b></li>  
+      
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(79).pdf" style="text-decoration:none;">Handbook of Integrative Clinical Psychology, Psychiatry, and Behavioral Medicine</a></b></li>
+         
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(80).pdf" style="text-decoration:none;">Handbook of Research in Pediatric and Clinical Child Psychology</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(81).pdf" style="text-decoration:none;">Intrusive Thoughts In Clinical Disorders</a></b></li>  
+         
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(82).pdf" style="text-decoration:none;">Liver Cirrhosis: Causes, Diagnosis And Treatment</a></b></li>
+         
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(83).pdf" style="text-decoration:none;">Pluripotent Stem Cells</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(84).pdf" style="text-decoration:none;">The Use Of Human Beings In Research: With Special Reference To Clinical Trials</a></b></li>  
+            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(85).pdf" style="text-decoration:none;">Trace Elements in Clinical Medicine</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(86).pdf" style="text-decoration:none;">Water Soluble Vitamins: Clinical Research and Future Application</a></b></li>  
+              
    
    
    
