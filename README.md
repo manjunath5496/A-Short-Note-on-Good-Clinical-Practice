@@ -369,8 +369,18 @@ Clinical Trials</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(86).pdf" style="text-decoration:none;">Water Soluble Vitamins: Clinical Research and Future Application</a></b></li>  
               
    
-   
-   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(88).pdf" style="text-decoration:none;">Clinical Pharmacology Made Incredibly Easy!</a></b></li>  
+            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(89).pdf" style="text-decoration:none;">Essentials of Medical Pharmacology</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(90).pdf" style="text-decoration:none;">Pharmacology of Dentistry</a></b></li>  
+                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(91).pdf" style="text-decoration:none;">Pharmacology Demystified</a></b></li>  
+            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(92).pdf" style="text-decoration:none;">A Textbook of Clinical Pharmacology and Therapeutics</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(93).pdf" style="text-decoration:none;">Practical Pharmacology for the Pharmaceutical Sciences</a></b></li>  
+                  
    
    
    
