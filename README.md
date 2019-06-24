@@ -381,6 +381,30 @@ Clinical Trials</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(93).pdf" style="text-decoration:none;">Practical Pharmacology for the Pharmaceutical Sciences</a></b></li>  
                   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(94).pdf" style="text-decoration:none;">Drug Stereochemistry </a></b></li>  
+                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(95).pdf" style="text-decoration:none;">Levine's Pharmacology: Drug Actions and Reactions</a></b></li>  
+            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(96).pdf" style="text-decoration:none;">A Short Textbook of Medical Pharmacology</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(97).pdf" style="text-decoration:none;">Biochemical Pharmacology</a></b></li>  
+                     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(98).pdf" style="text-decoration:none;">Pediatric Clinical Pharmacology</a></b></li>  
+            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(99).pdf" style="text-decoration:none;">Basic Pharmacokinetics</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(100).pdf" style="text-decoration:none;">Clinical Pharmacokinetics Pharmacy Handbook</a></b></li>    
+   
+   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(87).pdf" style="text-decoration:none;">Foundations of Clinical Research: Applications to Practice</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/A-Short-Note-on-Good-Clinical-Practice/blob/master/clin(101).pdf" style="text-decoration:none;">Applied Clinical Pharmacokinetics</a></b></li>    
+   
+      
+   
+   
+   
+   
    
    
    
