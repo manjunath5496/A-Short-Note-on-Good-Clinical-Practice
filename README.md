@@ -184,11 +184,11 @@
 <li>To ensure the&nbsp;<strong>safeguard of rights</strong>, safety and well-being of trail subjects.</li>
 <li>To supervise the overall conduct of the&nbsp;<strong>trial</strong>, verify the data, conduct the&nbsp;<strong>statistical analyses</strong>&nbsp;at intervals to ensure that the trail is conducted in compliance with the protocol,&nbsp;<strong>SOP</strong>,&nbsp;<strong>GCP</strong>&nbsp;and the applicable regulatory requirements and&nbsp;<strong>adverse events</strong>&nbsp;are correctly&nbsp;<strong>documented</strong>&nbsp;and reported.</li>
 </ul>
-<p>_________________________________________________________________________</p>
+<p>_________________________________________________________________________________________________________________________________</p>
 <p><strong>Dose:&nbsp;</strong>The amount of drug&nbsp;<strong>prescribed</strong>&nbsp;to be taken at one time.</p>
 <p><strong>Dosage:&nbsp;</strong>The amount of drug to be taken.</p>
 <p><strong>Dosage form:</strong>&nbsp;means by which the drug reach the&nbsp;<strong>target&nbsp;</strong><a href="https://en.wikipedia.org/wiki/Cell_(biology)" target="_blank" rel="nofollow noopener"><strong>cell</strong></a>&nbsp;to give its actions.</p>
-<p>__________________________________________________________________________</p>
+<p>_________________________________________________________________________________________________________________________________</p>
 <h2>&nbsp;</h2>
 <h2>Labeling / unblinding</h2>
 <p>A&nbsp;<strong>procedure</strong>&nbsp;in which both the investigator and&nbsp;<strong>trail subject&nbsp;</strong>is kept aware of the treatment strategies.</p>
